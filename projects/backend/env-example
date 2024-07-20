@@ -1,0 +1,16 @@
+
+### For Docker ##
+; DATABASE_HOST=database
+
+### For Local ##
+; DATABASE_HOST=localhost
+
+DATABASE_PORT=5432
+DATABASE_USER=admin
+DATABASE_PASSWORD=admin
+DATABASE_SCHEMA=public
+DATABASE_NAME=intelli-next
+PORT_API=3000
+
+ALGORITHM=RS256
+TIME_TOKEN=420s

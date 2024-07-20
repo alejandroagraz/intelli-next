@@ -1,0 +1,7 @@
+PROJECT_NAME=api-intelli-next
+JOB_BASE_NAME=develop
+PORT_LOCAL=3000
+DB_NAME=intelli-next
+DB_PORT=5432
+DB_USER=admin
+DB_PASSWORD=admin
