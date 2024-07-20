@@ -5,14 +5,14 @@
 ## Characteristic
 * User login
 * JWT storage in NestJs
-* Store products in PostgreSQL
+* Users, Authors, Editorials, Books  in PostgreSQL
 * All environments are built with docker and docker-compose
 
 ## Production environment
-* [Production environment](http://localhost:11013/api/auths/login)
+* [Production environment](http://localhost:3000/api/auths/login)
 
 ## Testing environment
-* [Testing environment](http://localhost:11013/api/auths/login)
+* [Testing environment](http://localhost:3000/api/auths/login)
 
 ## Starting 🚀
 
